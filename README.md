@@ -1,6 +1,6 @@
 # News_App
 
-<a href="m1"><img src="https://user-images.githubusercontent.com/94074275/175160254-9065f885-7bd1-4d81-a3f6-f8bce277855f.jpg" align="left" height="500" width="330" ></a>
+<a href="m1"><img src="https://user-images.githubusercontent.com/94074275/175160254-9065f885-7bd1-4d81-a3f6-f8bce277855f.jpg" align="left" height="500" width="320" marginLeft="50px" ></a>
 
 <a href="m1"><img src="https://user-images.githubusercontent.com/94074275/175160283-6fe5c595-1b59-4218-a3a4-baa2abc027ba.jpg" align="left" height="500" width="330" ></a>
 
